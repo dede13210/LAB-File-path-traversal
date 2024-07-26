@@ -1,6 +1,6 @@
 # LAB-File-path-traversal
 
-Pour mancer docker.
+Pour lancer docker.
 ```
 docker build -t my-flask-app .
 
